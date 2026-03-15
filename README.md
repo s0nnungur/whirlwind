@@ -1,6 +1,6 @@
 # Whirlwind
 
-A collection of complete OCaml exercise solutions for a Functional Programming course.
+A collection of complete OCaml exercise solutions for a Functional Programming enrollment.
 
 ## Overview
 
