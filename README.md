@@ -66,6 +66,20 @@ The files are self-contained and can be run immediately without any external dep
 11. Function calling patterns
 12. Static and dynamic environments
 
+**ficha2.ml** covers:
+
+1. Double function
+2. Maximum of two numbers
+3. Factorial
+4. Sum of even numbers
+5. Sum of digits
+6. Power function (non-terminal)
+7. Mystery function (multiplication)
+8. Reverse digits (accumulator)
+9. Count digits (accumulator)
+10. Fibonacci (terminal and non-terminal)
+11. Prime number checker
+
 ## Educational Use
 
 These files are intended for:
