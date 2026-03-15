@@ -55,8 +55,8 @@ The files are self-contained and can be run immediately without any external dep
 **ficha1.ml** covers:
 1. Type inference for expressions
 2. Evaluation errors and corrections
-3. Basic functions (soma, mult)
-4. Recursive functions (misterio)
+3. Basic functions 
+4. Recursive functions
 5. Binary conversion functions
 6. Error analysis with fixes
 7. More evaluation errors
@@ -66,14 +66,6 @@ The files are self-contained and can be run immediately without any external dep
 11. Function calling patterns
 12. Static and dynamic environments
 
-## Code Quality
-
-- All files compile without errors or warnings
-- Fully commented with inline explanations
-- Type signatures provided for all functions
-- Error cases documented with corrections
-- Executable test cases integrated throughout
-
 ## Educational Use
 
 These files are intended for:
@@ -82,5 +74,5 @@ These files are intended for:
 - Learning type inference and error handling
 - Reference material for similar exercises
 
-For academic courses: Use these as learning references, not as material to copy for submissions.
+For academic purposes
 
